@@ -13,4 +13,5 @@ Personal checklist of tasks/commands to run when setting up a new Linux server.
 * Secure sshd `sudo vim /etc/ssh/sshd_config`
 * Setup Nagios monitoring.
 * Add to secondary uptime monitor.
+* Setup SSL expiration monitor.
 * Configure firewall.
