@@ -2,7 +2,7 @@
 
 Personal checklist of tasks/commands to run when setting up a new Linux server.
 
-# General checklist
+## General checklist
 
 - [ ] Add **hostname** to `PS1` in .bashrc (to avoid running command on wrong environment)
 - [ ] `sudo apt update`
@@ -18,7 +18,7 @@ Personal checklist of tasks/commands to run when setting up a new Linux server.
 - [ ] Deactivate services not in use.
 - [ ] Setup backup service.
 
-# Webserver additional checklist
+## Additional checklist for webserver
 
 - [ ] Add to secondary uptime monitor that listens on https.
 - [ ] Setup SSL expiration monitor.
