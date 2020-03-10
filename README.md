@@ -22,3 +22,4 @@ Personal checklist of tasks/commands to run when setting up a new Linux server.
 
 - [ ] Add to secondary uptime monitor that listens on https.
 - [ ] Setup SSL expiration monitor.
+- [ ] Setup [naxsi](https://github.com/nbs-system/naxsi) and [doxsi-rules](https://bitbucket.org/lazy_dogtown/doxi-rules/src/master/)
