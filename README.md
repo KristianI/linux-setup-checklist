@@ -1,4 +1,4 @@
-# linux-setup-checklist
+# Linux setup checklist
 
 Personal checklist of tasks/commands to run when setting up a new Linux server.
 
